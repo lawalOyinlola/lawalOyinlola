@@ -14,7 +14,7 @@ I am a Software Engineer, with experience working as a team at a finTech startup
 - 🌱 I'm developing, learning languages and framework such as Python, PHP - Laravel, Dart/Flutter - FlutterFlow...
 - 😊 I’m looking to contribute to open source projects, and work on hackathons.
 - 💼 Job interests: Software Developer, FrontEnd Engineer, or UI Engineer, Web & App Developer.
-- 📫 You can [view my resume](https://drive.google.com/file/d/15XoeIueXZnNTzfZERwAxOQLwKbV2uzub/view?usp=drive_link) and contact me by emailing [oyinlolalawal1705@gmail.com](mailto:oyinlolalawal1705@gmail.com).
+- 📫 You can [view my resume](https://resume.lawaloyinlola.com) , [view my works](https://lawaloyinlola.com)  and contact me by emailing [oyinlolalawal1705@gmail.com](mailto:oyinlolalawal1705@gmail.com).
 
 ---
 
